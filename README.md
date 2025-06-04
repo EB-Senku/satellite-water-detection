@@ -41,11 +41,6 @@ I used the **EuroSAT RGB dataset**, which contains labeled satellite images acro
 
 
 
-# Dataset should be structured as:
-# dataset/
-# ├── River/
-# ├── SeaLake/
-# ├── Forest/
-# └── ...
+📁 EuroSAT_RGB │ ├── 📁 AnnualCrop │ ├── 📁 Forest │ ├── 📁 HerbaceousVegetation │ ├── 📁 Highway │ ├── 📁 Industrial │ ├── 📁 Pasture │ ├── 📁 PermanentCrop │ ├── 📁 Residential │ ├── 📁 River │ └── 📁 SeaLake
 
 
