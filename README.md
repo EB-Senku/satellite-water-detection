@@ -36,11 +36,6 @@ I used the **EuroSAT RGB dataset**, which contains labeled satellite images acro
 | Random Forest + SVD    | ~38–64%      | ~88%     |
 | CNN Features + XGBoost | **91%**      | **98%**  |
 
----
 
-
-
-
-<pre>📁 EuroSAT_RGB │ ├── 📁 AnnualCrop │ ├── 📁 Forest │ ├── 📁 HerbaceousVegetation │ ├── 📁 Highway │ ├── 📁 Industrial │ ├── 📁 Pasture │ ├── 📁 PermanentCrop │ ├── 📁 Residential │ ├── 📁 River │ └── 📁 SeaLake </pre>
 
 
