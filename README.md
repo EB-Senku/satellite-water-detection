@@ -39,9 +39,7 @@ I used the **EuroSAT RGB dataset**, which contains labeled satellite images acro
 ---
 
 
-## Running the Project
 
-```
 
 # Dataset should be structured as:
 # dataset/
@@ -50,5 +48,4 @@ I used the **EuroSAT RGB dataset**, which contains labeled satellite images acro
 # ├── Forest/
 # └── ...
 
-# Run the main notebook
-jupyter notebook main.ipynb
+
